@@ -1,0 +1,23 @@
+{
+  "name": "picnic-planner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "picnic-planner.js",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node picnic-planner.js London"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiroslavDragnev/picnic-planner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiroslavDragnev/picnic-planner/issues"
+  },
+  "homepage": "https://github.com/MiroslavDragnev/picnic-planner#readme"
+}
